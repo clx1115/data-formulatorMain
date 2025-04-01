@@ -1,2 +1,2 @@
-data-formulator>=0.1.2
-python-dotenv>=0.19.0
+data-formulator==0.1.2
+python-dotenv==0.19.0
